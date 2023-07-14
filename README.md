@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moiz-ahmed-dev&label=Profile%20views&color=0e75b6&style=flat" alt="moiz-ahmed-dev" /> </p>
 
-- ðŸŒ± Iâ€™m currently learning **HTML5,CSS3,Bootstrap and JavaScript**
+- currently learning **HTML5,CSS3,Bootstrap and JavaScript**
 
-- ðŸ“« How to reach me **moizm377@gmail.com**
+-  How to reach me **moizm377@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
